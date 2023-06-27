@@ -1,0 +1,45 @@
+h1 {
+    background: rgb(132, 0, 255);
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: yellowgreen;  
+}
+
+.paragraph-2 {
+    font-size: 24pt;
+    border: 10px solid black;
+    border-radius: 5px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-right: 60px;
+    text-align: center;
+
+}
+
+.paragraph-3 {
+    background: black;
+    font-size: 24pt;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paragraph-4 {
+    text-align: center;
+    font-size: 24pt;
+    text-shadow: green 2px 3px 2px;
+}
+
+
+/* background: ;
+font-size: ;
+color: ;
+border: ;
+border-radius: ;
+font-weight: ;
+font-family: ; 
+margin: ;
+padding: ; */
